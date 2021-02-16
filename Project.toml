@@ -1,0 +1,4 @@
+name = "FastClustering"
+uuid = "95165611-4743-4e88-9995-942ee5660947"
+authors = ["Matt Kearns <mattkearns@protonmail.com>"]
+version = "0.1.0"
